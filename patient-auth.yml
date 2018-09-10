@@ -1,6 +1,6 @@
 spring:
  datasource:
-   url: jdbc:mysql://172.23.239.228:3306/PatientAuthDBMySQL
+   url: jdbc:mysql://localhost/PatientAuthDBMySQL
    username: root
    password: root
  jpa:
