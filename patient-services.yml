@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      database: PSDatabase
+      host: 172.23.239.244
+      password: root
+      port: 27017
+      username: shiva123
