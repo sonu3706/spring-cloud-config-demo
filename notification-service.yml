@@ -1,1 +1,8 @@
-
+spring:
+  data:
+      mongodb:
+          database: NotificationDB
+          host: 172.23.239.234
+          password: root
+          port: 27017
+          username: rootn
