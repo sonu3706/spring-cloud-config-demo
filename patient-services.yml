@@ -1,8 +1,8 @@
 spring:
   data:
     mongodb:
-      database: PSDatabase
-      host: 172.23.239.244
+      database: PatientDB
+      host: 172.23.239.234
       password: root
       port: 27017
-      username: shiva123
+      username: rootp
