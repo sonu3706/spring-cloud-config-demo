@@ -4,11 +4,10 @@ spring:
     hibernate:
            ddl-auto: update
 
-  application:
-    name: DoctorAuth
+  
 
 
   datasource:
-     url: jdbc:mysql://172.23.239.228:3306/doctorAuthenDb
+     url: jdbc:mysql://172.23.239.228:3306/doctorAu
      username: root
      password: root
