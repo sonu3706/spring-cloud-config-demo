@@ -6,4 +6,4 @@ spring:
       password: root
       port: 27017
       host: 172.23.239.234
-      username: root
+      username: rootc
