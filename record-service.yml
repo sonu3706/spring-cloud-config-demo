@@ -1,8 +1,8 @@
 spring:
  data:
    mongodb:
-     database: RecordService
-     host: 172.23.239.228
+     database: RecordDB
+     host: 172.23.239.234
      password: root
      port: 27017
-     username: Sanjanaa
+     username: rootr
