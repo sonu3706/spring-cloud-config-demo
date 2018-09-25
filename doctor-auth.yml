@@ -1,13 +1,10 @@
 spring:
-  jpa:
-    show-sql: true
-    hibernate:
-           ddl-auto: update
-
-  
-
-
   datasource:
-     url: jdbc:mysql://172.23.239.228:3306/doctorAu
-     username: root
-     password: root
+    password: root
+    url: jdbc:mysql://172.23.239.234:3306/DoctorAuthDB
+    username: rootda
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
