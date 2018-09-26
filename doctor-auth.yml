@@ -2,7 +2,7 @@ spring:
   datasource:
     password: root
     url: jdbc:mysql://172.23.239.234:3306/DoctorAuthDB
-    username: rootda
+    username: root
   jpa:
     hibernate:
       ddl-auto: update
